@@ -1,5 +1,5 @@
 body {
-    background-image: url("station.jpg");
+    background-image: url("gas meter.jpg");
     background-size: cover;
     font-family:  Cambria, Cochin, Georgia, Times,;
     font-weight: bold;
