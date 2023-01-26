@@ -1,16 +1,21 @@
 body {
-    background-image: url("gas meter.jpg");
-    background-size: cover;
+    background-image: url("https://katu.com/resources/media2/16x9/full/1015/center/80/4f2c9218-c1aa-4dc8-9706-2a6cf1ca62ff-large16x9_Gasmeterscap3.jpg");
+    background-size: auto 50%;
     font-family:  Cambria, Cochin, Georgia, Times,;
     font-weight: bold;
+    display: flex;
+    flex-direction: column;
     text-align: center;
+    display: flex;
+    
+    
 }
 
 .container  {
-    background: red, blue;
-    margin: auto;
-    max-width: 60%;
-    border: 4px solid black;
+    background-color: #f7ede2;
+    margin: 40px auto;
+    max-width: 40%;
+    border: 4px solid gray;
     border-radius: 40px;
     
     }
@@ -22,8 +27,8 @@ h1 {
 
 h2 {
     font-size: 50px;
-    margin-top: 0;
-    margin-bottom: 20px;
+    margin-top: 30;
+    margin-bottom: 50px;
 }
 
 button {
@@ -32,8 +37,10 @@ button {
     padding-bottom: 10px;
     color: white;
     font-weight: bold;
-    width: 200px;
+    width: 150px;
     margin-bottom: 5px;
+    margin-left: 10px;
+    margin-right: 10px;
     border-radius: 5px;
 }
 
